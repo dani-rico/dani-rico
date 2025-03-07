@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Estudios
+- Actividades comerciales 💵 [Finalizado] 
+- Desarrollo de aplicaciones multiplataforma 💻 [En curso]
+
+### Tecnologías
+- Java ☕
+- Html & Css 🧬
+- JavaScript 🤖
+- Python 🐍
+
+### Proyectos
+- Próximamente....
+
+
+
+
+
